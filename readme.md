@@ -20,14 +20,12 @@
 
 Hi there, I'm **Pedro Daniel Jardim**, I'm Brazilian junior developer, computer enthusiast and gamer since I was little. 
 I like programming challenges, so I have profiles on competitive programming sites like uri, spoj and codesignal. 
-I believe that Collective Individualism is a good path that we must follow, Long Live to OPEN SOURCE!
 <img align="right" alt="GIF" src="https://media.giphy.com/media/10AoZDUmPrhguQ/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning TDD, Clean Architeture, Data structures and algorithms.
 - 🤔 My interests are with algorithms, web and mobile development, cybersecurity and devops.
-- 💼 I'm in the 4rd semester of my bachelor's degree in Information Systems at [Federal University of Viçosa](https://www.ufv.br/).
 - 💬 Ask me about anything, I'm happy to help.
 - 📫 Please email via pedro.jardim@ufv.br or pedro.d.jardim@hotmail.com to reach me.
 
