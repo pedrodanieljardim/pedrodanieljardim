@@ -35,7 +35,7 @@ I like programming challenges, so I have profiles on competitive programming sit
 - Back-end development using **Java, .NET, NodeJS and Golang**
 - Mobile application development using **ReactNative and Kotlin**
 - I work with both relational databases (MySQL and PostgreSQL) and non-relational databases (Oracle NoSQL Database and MongoDB).
-- Creating scalable cloud architecture using **AWS Cloud**
+- Creating scalable cloud architecture using **AWS Cloud and Microsoft Azure**
 - Solving Data structure and algorithm questions in **Java, C, C++ and Python**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pedrodanieljardim&show_icons=true&icon_color=B8C5E4&title_color=0D262D&text_color=37383B&hide_border=true&hide=prs,issues)
