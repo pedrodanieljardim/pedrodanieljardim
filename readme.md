@@ -24,7 +24,7 @@ I like programming challenges, so I have profiles on competitive programming sit
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning TDD, Clean Architeture, Data structures and algorithms.
+- 🌱 I’m currently learning Data structures, algorithms, TDD and Clean Architeture.
 - 🤔 My interests are with algorithms, web and mobile development, cybersecurity and devops.
 - 💬 Ask me about anything, I'm happy to help.
 - 📫 Please email via pedro.jardim@ufv.br or pedro.d.jardim@hotmail.com to reach me.
