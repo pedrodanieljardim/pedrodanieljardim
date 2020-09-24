@@ -31,9 +31,9 @@ I like programming challenges, so I have profiles on competitive programming sit
 
 **Languages and Tools:**
 
-- Front-end development using **HTML, CSS, JavaScript: jQuery, Bootstrap, ReactJS, VueJS**
-- Back-end development using **Java, .NET, NodeJS and Golang**
-- Mobile application development using **ReactNative and Kotlin**
+- Front-end development : **HTML, CSS, JavaScript: jQuery, Bootstrap, ReactJS, VueJS**
+- Back-end development : **Java, .NET, NodeJS and Golang**
+- Mobile development : **ReactNative and Kotlin**
 - I work with both relational databases (MySQL and PostgreSQL) and non-relational databases (Oracle NoSQL Database and MongoDB).
 - Creating scalable cloud architecture using **AWS Cloud and Microsoft Azure**
 - Solving Data structure and algorithm questions in **Java, C, C++ and Python**
