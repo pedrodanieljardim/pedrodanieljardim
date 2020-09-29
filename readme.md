@@ -22,18 +22,11 @@ Hi there, I'm **Pedro Daniel Jardim**, I'm Brazilian junior developer, computer 
 I like programming challenges, so I have profiles on competitive programming sites like uri, spoj and codesignal. 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/10AoZDUmPrhguQ/giphy.gif" />
 
-**Talking about Personal Stuffs:**
-
-- 🌱 I’m currently learning Data structures, algorithms, TDD and Clean Architeture.
-- 🤔 My interests are with algorithms, web and mobile development, cybersecurity and devops.
-- 💬 Ask me about anything, I'm happy to help.
-- 📫 Please email via pedro.jardim@ufv.br or pedro.d.jardim@hotmail.com to reach me.
-
 **Languages and Tools:**
 
-- Front-end development : **HTML, CSS, JavaScript: jQuery, Bootstrap, ReactJS, VueJS**
-- Back-end development : **Java, C#, JavaScript and Golang**
-- Mobile development : **ReactNative and Kotlin**
+- Front-end development : **HTML, CSS, SASS e JavaScript: jQuery, Bootstrap, ReactJS, VueJS.**
+- Back-end development : **Java, C#, JavaScript and Golang.**
+- Mobile development : **ReactNative and Kotlin.**
 - I work with both relational databases (MySQL and PostgreSQL) and non-relational databases (Oracle NoSQL Database and MongoDB).
 - Creating scalable cloud architecture using **AWS Cloud and Microsoft Azure**
 - Solving Data structure and algorithm questions in **Java, C, C++ and Python**
