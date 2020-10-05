@@ -27,9 +27,8 @@ Hi there, I'm **Pedro Daniel Jardim**, I'm Brazilian developer, computer enthusi
 - Front-end development : **HTML, CSS, SASS and JavaScript: Angular, jQuery, Bootstrap, ReactJS, VueJS.**
 - Back-end development : **Java, C#, NodeJS and Golang.**
 - Mobile development : **ReactNative and Kotlin.**
-- I work with both relational databases (MySQL and PostgreSQL) and non-relational databases (Oracle NoSQL Database and MongoDB).
-- Creating scalable cloud architecture using **AWS Cloud and Microsoft Azure**
-- Solving Data structure and algorithm questions in **Java, C, C++ and Python**
+- Relational databases: **MySQL and PostgreSQL.**
+- No-Relational database: **MongoDB**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pedrodanieljardim&show_icons=true&icon_color=B8C5E4&title_color=0D262D&text_color=37383B&hide_border=true&hide=prs,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodanieljardim&hide=tex,html&layout=compact&hide_border=true&title_color=0D262D&)
