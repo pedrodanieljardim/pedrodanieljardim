@@ -18,13 +18,13 @@
 <br/>
 <br/>
 
-Hi there, I'm **Pedro Daniel Jardim**, I'm Brazilian junior developer, computer enthusiast and gamer since i was little. 
+Hi there, I'm **Pedro Daniel Jardim**, I'm Brazilian developer, computer enthusiast and gamer since i was little. 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/10AoZDUmPrhguQ/giphy.gif" />
 
 **Languages and Tools:**
 
-- Front-end development : **HTML, CSS, SASS e JavaScript: jQuery, Bootstrap, ReactJS, VueJS.**
+- Front-end development : **HTML, CSS, SASS and JavaScript: Angular, jQuery, Bootstrap, ReactJS, VueJS.**
 - Back-end development : **Java, C#, NodeJS and Golang.**
 - Mobile development : **ReactNative and Kotlin.**
 - I work with both relational databases (MySQL and PostgreSQL) and non-relational databases (Oracle NoSQL Database and MongoDB).
