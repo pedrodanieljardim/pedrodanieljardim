@@ -38,7 +38,7 @@ I believe that collective individualism is a good path to help a build a better 
 - I use Windows and GNU/Linux on my notebook. My favorite Linux distro and the one I use is Manjaro Linux and my version of Windows is a Windows 10 Professional.
 - Front-end development using **HTML, Javascript, CSS, Angular, Bootstrap, ReactJS, VueJS**
 - Back-end development using **Java , C# , NodeJS **
-- Desktop application development using **Java, C# and JavaScript**
+- Desktop application development using **Java, C# and ElectronJS**
 - Mobile application development using **ReactNative**
 - I work with both relational databases (MySQL and PostgreSQL) and non-relational databases (Oracle NoSQL Database and MongoDB).
 - Creating scalable cloud architecture using **AWS Cloud**.
