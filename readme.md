@@ -27,7 +27,7 @@ Hi there, I'm **Pedro Daniel Jardim**, Fullstack software development intern at 
 **Talking about Personal Stuffs:**
 
 - 🤔 My interests are with web development, cybersecurity and devops.
-- 💼 I'm in the 3rd semester of my bachelor's degree in Information Systems at [Federal University of Viçosa](https://www.ufv.br/).
+- 💼 I'm in the 4rd semester of my bachelor's degree in Information Systems at [Federal University of Viçosa](https://www.ufv.br/).
 - 💬 Ask me about anything, I'm happy to help.
 - 📫 Please email via pedro.jardim@ufv.br or pedro.d.jardim@hotmail.com to reach me.
 
