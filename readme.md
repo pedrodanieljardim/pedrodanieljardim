@@ -31,6 +31,4 @@ Hi there, I'm **Pedro Daniel Jardim**, Fullstack software development intern at 
 - 💬 Ask me about anything, I'm happy to help.
 - 📫 Please email via pedro.jardim@ufv.br or pedro.d.jardim@hotmail.com to reach me.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pedrodanieljardim&show_icons=true&icon_color=B8C5E4&title_color=0D262D&text_color=37383B&hide_border=true&hide=prs,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodanieljardim&hide=tex,html&layout=compact&hide_border=true&title_color=0D262D&)
 
