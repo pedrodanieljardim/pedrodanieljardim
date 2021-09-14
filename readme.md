@@ -28,6 +28,6 @@ Hi there, I'm **Pedro Daniel Jardim**, I'm Software Developer PL at [Venha Pra N
 
 - 🤔 My interests are with web development, cybersecurity and devops.
 - 💬 Ask me about anything, I'm happy to help.
-- 📫 Please email via pedro.jardim@ufv.br or pedro.d.jardim@hotmail.com to reach me.
+- 📫 Please email via pedro.d.jardim@hotmail.com to reach me.
 
 
