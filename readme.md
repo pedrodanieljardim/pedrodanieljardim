@@ -1,4 +1,4 @@
-<h3 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Pedro Daniel Jardim</h1>
+<h3 align="left">Hi, I'm Pedro Daniel Jardim</h1>
 
 <div align="center">
       <a href="https://www.linkedin.com/in/pedro-daniel-jardim-280597a8/">
