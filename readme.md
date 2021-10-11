@@ -26,7 +26,7 @@ Hi there, I'm **Pedro Daniel Jardim**, I'm Software Developer PL at [Venha Pra N
 
 **Talking about Personal Stuffs:**
 
-- 🤔 My interests are with web development, cybersecurity and devops.
+- 🤔 My interests are with backend development, cloud, cybersecurity and devops.
 - 💬 Ask me about anything, I'm happy to help.
 - 📫 Please email via pedro.d.jardim@hotmail.com to reach me.
 
